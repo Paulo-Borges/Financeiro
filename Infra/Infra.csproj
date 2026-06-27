@@ -11,4 +11,8 @@
     <Folder Include="Repositorio\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Scalar.AspNetCore" Version="2.16.6" />
+  </ItemGroup>
+
 </Project>
