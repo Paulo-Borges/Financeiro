@@ -5,7 +5,6 @@
   <Folder Name="/2-Dominio/">
     <Project Path="Domain/Domain.csproj" />
   </Folder>
-  <Folder Name="/2-Dominio/Interfaces/" />
   <Folder Name="/3-InfraEstrutura/">
     <Project Path="Infra/Infra.csproj" />
   </Folder>
